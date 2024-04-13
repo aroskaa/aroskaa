@@ -1,4 +1,4 @@
-### Hi there 👋
+
 <h2 align="left">Hi 👋! My name is Aroska and I'm a newbie web developer wannabe</h2>
 
 ###
