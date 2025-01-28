@@ -41,7 +41,6 @@
 ###
 
 <br clear="both">
-
 <img src="https://raw.githubusercontent.com/aroskaa/aroskaa/output/snake.svg" alt="Snake animation" />
 
 ###
